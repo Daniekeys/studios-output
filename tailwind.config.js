@@ -11,6 +11,9 @@ module.exports = {
         "studio-white": "#f2f2f2",
         "studio-border": "#e6e6e6",
       },
+      backgroundImage: {
+        'footer-background': "url('./public/images/background.jpg')",
+      }
     },
     fontFamily: {
       Poppins: ["Poppins, sans-serif"],
